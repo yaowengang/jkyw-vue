@@ -1,0 +1,62 @@
+.loginbtn{
+	background:#1696e5;
+	margin: auto;
+	width: 90%;
+	border-radius: 100px;
+}
+.row{
+	width: 100%;
+	margin-bottom: 0;
+}
+.loginbt{
+	width: 100%;	
+	display: inline-block;
+	margin:1.5rem 1rem 0
+}
+.input-field label{
+	color: #0089ec;
+}
+
+[type="checkbox"]+label:before {
+	border: 2px solid #0089ec;
+}
+[type="checkbox"]:checked+label:before{
+	border-right: 2px solid #0089ec;
+    border-bottom: 2px solid #0089ec;
+}
+input[type=email]:focus:not([readonly]){
+	border-bottom: 1px solid #0089ec;
+    box-shadow: 0 1px 0 0 #0089ec;
+}
+.input-field .prefix.active {
+    color: #0089ec;
+}
+img.responsive-img{
+	max-width: 45%;
+}
+.margin-20{
+	margin-top: 30px;
+}
+.row .col{
+	padding: 0;
+}
+.login-text{
+	margin-top: 0;
+
+}
+.register-btn{
+	background: #FFFFFF;
+	border: 1px solid #0089ec;
+	color: #0089EC;
+}
+.border-none{
+	border: none;
+	margin-top: 0;
+	text-align: center;
+	background: transparent;
+	line-height: 3;
+}
+
+.btn:hover, .btn-large:hover {
+    background-color: #0971f3;
+}

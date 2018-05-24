@@ -1,0 +1,541 @@
+{
+	"message": [
+		{
+			"imgUrl": "../static/image/index_17.png",
+			"title": "中医食疗助你孕育健康宝宝",
+			"introduction": "怀孕是一件很微妙的过程，并不像人们想象的那么简单，就像自然界的小树苗..."
+		},
+		{
+			"imgUrl": "../static/image/index_17-12.png",
+			"title": "怀疑甲状腺功能亢进要做哪些检查",
+			"introduction": "很多人可能通过网上和身边朋友给的信息，发现自己平时一些症状和甲亢吻合..."
+		},
+		{
+			"imgUrl": "../static/image/index_17-13.png",
+			"title": "老年人健身7个平衡原则",
+			"introduction": "人到了岁数就要注意保健，但是很多方式方法和年轻的时候不太一样。专家提..."
+		}
+	],
+	"discountCoupon": [
+		{
+			"discountNum": "5",
+			"upperLimit": "280",
+      "timeUse": "2017.05.15-2017.06.15",
+			"isBelong": true
+		},
+		{
+			"discountNum": "10",
+			"upperLimit": "500",
+      "timeUse": "2017.05.15-2017.06.15",
+			"isBelong": false
+		},
+		{
+			"discountNum": "20",
+			"upperLimit": "700",
+      "timeUse": "2017.05.15-2017.06.15",
+			"isBelong": false
+		}
+	],
+	"goods": [
+		{
+      "goodsImg": "../static/image/goods_detail_03.jpg",
+      "goodsTit": "澳大利亚派客传统雷司令白葡萄酒2014-750ml",
+      "price":"294",
+      "oldprice": "368",
+      "saleDay": "7",
+      "expressage": "0",
+      "monthlySales": "684",
+      "Stock": "3452",
+      "advantageTit": "亮点",
+      "advantage": "槟酒属于起泡葡萄酒,但并不是所有的起泡葡萄酒都能称为香槟酒。法律规定,只有产于法国香槟地区,使用特定的葡萄品种和酿制工艺酿制而成的起泡葡萄",
+      "advantageImg": "../static/image/goods_detail_06.jpg",
+      "detail":{
+        "澳大利亚产区":"克莱尔谷",
+        "葡萄品种":"雷司令",
+        "类型":"白葡萄酒"
+      },
+      "evaluate" :[
+        {
+          "userImg": "../static/image/c-l_03.jpg",
+          "userTitle": "",
+          "content": "",
+          "time": "",
+          "uploadImg": [
+            "../static/image/c-l_07.jpg",
+            "../static/image/c-l_09.jpg",
+            "../static/image/c-l_11.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "goodsImg": "../static/image/s-list_05.jpg",
+      "goodsTit": "【新年优惠】家用智能 跑步机",
+      "price":"1299",
+      "oldprice": "1999",
+      "saleDay": "7",
+      "expressage": "0",
+      "monthlySales": "684",
+      "Stock": "3452",
+      "advantageTit": "亮点",
+      "advantage": "槟酒属于起泡葡萄酒,但并不是所有的起泡葡萄酒都能称为香槟酒。法律规定,只有产于法国香槟地区,使用特定的葡萄品种和酿制工艺酿制而成的起泡葡萄",
+      "advantageImg": "../static/image/goods_detail_06.jpg",
+      "detail":{
+        "澳大利亚产区":"克莱尔谷",
+        "葡萄品种":"雷司令",
+        "类型":"白葡萄酒"
+      },
+      "evaluate" :[
+        {
+          "userImg": "../static/image/c-l_03.jpg",
+          "userTitle": "",
+          "content": "",
+          "time": "",
+          "uploadImg": [
+            "../static/image/c-l_07.jpg",
+            "../static/image/c-l_09.jpg",
+            "../static/image/c-l_11.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "goodsImg": "../static/image/s-list_09.jpg",
+      "goodsTit": "【新年优惠】家用智能 跑步机",
+      "price":"119",
+      "oldprice": "189",
+      "saleDay": "7",
+      "expressage": "0",
+      "monthlySales": "684",
+      "Stock": "3452",
+      "advantageTit": "亮点",
+      "advantage": "槟酒属于起泡葡萄酒,但并不是所有的起泡葡萄酒都能称为香槟酒。法律规定,只有产于法国香槟地区,使用特定的葡萄品种和酿制工艺酿制而成的起泡葡萄",
+      "advantageImg": "../static/image/goods_detail_06.jpg",
+      "detail":{
+        "澳大利亚产区":"克莱尔谷",
+        "葡萄品种":"雷司令",
+        "类型":"白葡萄酒"
+      },
+      "evaluate" :[
+        {
+          "userImg": "../static/image/c-l_03.jpg",
+          "userTitle": "",
+          "content": "",
+          "time": "",
+          "uploadImg": [
+            "../static/image/c-l_07.jpg",
+            "../static/image/c-l_09.jpg",
+            "../static/image/c-l_11.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "goodsImg": "../static/image/s-list_10.jpg",
+      "goodsTit": "【新年优惠】 减肥营养早餐套餐",
+      "price":"119",
+      "oldprice": "189",
+      "saleDay": "7",
+      "expressage": "0",
+      "monthlySales": "684",
+      "Stock": "3452",
+      "advantageTit": "亮点",
+      "advantage": "槟酒属于起泡葡萄酒,但并不是所有的起泡葡萄酒都能称为香槟酒。法律规定,只有产于法国香槟地区,使用特定的葡萄品种和酿制工艺酿制而成的起泡葡萄",
+      "advantageImg": "../static/image/goods_detail_06.jpg",
+      "detail":{
+        "澳大利亚产区":"克莱尔谷",
+        "葡萄品种":"雷司令",
+        "类型":"白葡萄酒"
+      },
+      "evaluate" :[
+        {
+          "userImg": "../static/image/c-l_03.jpg",
+          "userTitle": "",
+          "content": "",
+          "time": "",
+          "uploadImg": [
+            "../static/image/c-l_07.jpg",
+            "../static/image/c-l_09.jpg",
+            "../static/image/c-l_11.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "goodsImg": "../static/image/s-list_10.jpg",
+      "goodsTit": "【新年优惠】 减肥营养早餐套餐",
+      "price":"119",
+      "oldprice": "189",
+      "saleDay": "7",
+      "expressage": "0",
+      "monthlySales": "684",
+      "Stock": "3452",
+      "advantageTit": "亮点",
+      "advantage": "槟酒属于起泡葡萄酒,但并不是所有的起泡葡萄酒都能称为香槟酒。法律规定,只有产于法国香槟地区,使用特定的葡萄品种和酿制工艺酿制而成的起泡葡萄",
+      "advantageImg": "../static/image/goods_detail_06.jpg",
+      "detail":{
+        "澳大利亚产区":"克莱尔谷",
+        "葡萄品种":"雷司令",
+        "类型":"白葡萄酒"
+      },
+      "evaluate" :[
+        {
+          "userImg": "../static/image/c-l_03.jpg",
+          "userTitle": "",
+          "content": "",
+          "time": "",
+          "uploadImg": [
+            "../static/image/c-l_07.jpg",
+            "../static/image/c-l_09.jpg",
+            "../static/image/c-l_11.jpg"
+          ]
+        }
+      ]
+    }
+	],
+  "community": [
+    {
+      "imgUrl": "../../static/image/tu_16.png",
+      "userName": "罗小黑",
+      "time": "6小时前",
+      "type": "瑜伽",
+      "content": "睡前喝豆浆：豆浆富含100%的优质胺基酸，可制造充分的生长激素，促进身体的新陈代谢，消耗体内多余的醣份和脂肪，所以睡前喝豆浆。",
+      "attention": "10254",
+      "like": "58",
+      "discuss": "103",
+      "detailImg": [
+        "../../static/image/list-bg_03.jpg"
+      ]
+    },
+    {
+      "imgUrl": "../../static/image/tu_16.png",
+      "userName": "张医生",
+      "time": "8小时前",
+      "type": "减肥",
+      "content": "睡前喝豆浆：豆浆富含100%的优质胺基酸，可制造充分的生长激素，促进身体的新陈代谢，消耗体内多余的醣份和脂肪，所以睡前喝豆浆。",
+      "attention": "10254",
+      "like": "58",
+      "discuss": "103"
+    }
+  ],
+  "doctor": [
+    {
+      "name": "王小云",
+      "imgUrl": "../static/image/list_03.jpg",
+      "administrative": "外科",
+      "hospital": "陕西省中医医院"
+    },
+    {
+      "name": "高少才",
+      "imgUrl": "../static/image/list_06.jpg",
+      "administrative": "胸外科",
+      "hospital": "陕西省人民医院"
+    },
+    {
+      "name": "冯丽丽",
+      "imgUrl": "../static/image/list_08.jpg",
+      "administrative": "心血管外科",
+      "hospital": "交大第二附属医院"
+    },
+    {
+      "name": "杨雪艳",
+      "imgUrl": "../static/image/list_10.jpg",
+      "administrative": "骨外科",
+      "hospital": "第四军医大学"
+    }
+  ],
+  "target": [
+    {
+      "project": "慢跑",
+      "useTime": "20分钟",
+      "_id": "1",
+      "targetColor": "93e4e7",
+      "img": "../static/image/Programme_Manage_03.png",
+      "complete": "false"
+    },
+    {
+      "project": "跳绳",
+      "useTime": "120个",
+      "_id": "2",
+      "targetColor": "9ff1d3",
+      "img": "../static/image/Programme_Manage_06.png",
+      "complete": "false"
+    },
+    {
+      "project": "俯卧撑",
+      "useTime": "20个",
+      "_id": "3",
+      "targetColor": "95d4fc",
+      "img": "../static/image/Programme_Manage_08.png",
+      "complete": "false"
+    },
+    {
+      "project": "仰卧起坐",
+      "useTime": "60个",
+      "_id": "4",
+      "targetColor": "93e4e7",
+      "img": "../static/image/Programme_Manage_08.png",
+      "complete": "true"
+    }
+  ],
+  "projectProgress": [
+    {
+      "id": "1",
+      "targetTit": "慢跑计划",
+      "integral": "15",
+      "planContent": "坚持每天慢跑20分钟，增进健康、增强体质、减肥防胖并求体态优美和心情舒畅。慢跑每分钟消耗10~13大卡的热量。",
+      "progress": "60",
+      "period": "35"
+    },
+    {
+      "id": "2",
+      "targetTit": "跳绳计划",
+      "integral": "10",
+      "planContent": "坚持每天跳绳120个，强灵活性和协调能力！跳绳能够锻炼人的弹跳、速度、平衡、耐力和爆发力，同时可以培养准确性、灵活性、协调性，以及顽强的意志和奋发向上的精神。",
+      "progress": "50",
+      "period": "30"
+    },
+    {
+      "id": "3",
+      "targetTit": "俯卧撑计划",
+      "integral": "20",
+      "planContent": "俯卧撑主要锻炼的肌肉群肱三头肌，同时还锻炼三角肌前束、前锯肌和喙肱肌及身体的其他部位。其主要作用是提高上肢、胸部、腰背和腹部的肌肉力量",
+      "progress": "50",
+      "period": "30"
+    },
+    {
+      "id": "4",
+      "targetTit": "仰卧起坐计划",
+      "integral": "3",
+      "planContent": "仰卧起坐是体能锻炼的一个重要环节,有些人甚至误解了它有助于减除腹部的脂肪。 有研究指出,如果仰卧起坐每一次训练少于150次就达不到减肥目的",
+      "progress": "100",
+      "period": "60"
+    }
+  ],
+  "goodsClassify": [
+    {
+      "imgLogo": "../static/img/classify_01.png",
+      "classifyTit": "今日特惠"
+    },
+    {
+      "imgLogo": "../static/img/classify_02.png",
+      "classifyTit": "智能设备"
+    },
+    {
+      "imgLogo": "../static/img/classify_03.png",
+      "classifyTit": "保健品"
+    },
+    {
+      "imgLogo": "../static/img/classify_04.png",
+      "classifyTit": "健康用品"
+    },
+    {
+      "imgLogo": "../static/img/classify_05.png",
+      "classifyTit": "美肌美容"
+    },
+    {
+      "imgLogo": "../static/img/classify_06.png",
+      "classifyTit": "家用药箱"
+    },
+    {
+      "imgLogo": "../static/img/classify_07.png",
+      "classifyTit": "电子仪器"
+    },
+    {
+      "imgLogo": "../static/img/classify_08.png",
+      "classifyTit": "海外热卖"
+    },
+    {
+      "imgLogo": "../static/img/classify_01.png",
+      "classifyTit": "今日特惠2"
+    },
+    {
+      "imgLogo": "../static/img/classify_02.png",
+      "classifyTit": "智能设备2"
+    },
+    {
+      "imgLogo": "../static/img/classify_03.png",
+      "classifyTit": "保健品2"
+    },
+    {
+      "imgLogo": "../static/img/classify_04.png",
+      "classifyTit": "健康用品2"
+    },
+    {
+      "imgLogo": "../static/img/classify_05.png",
+      "classifyTit": "美肌美容2"
+    },
+    {
+      "imgLogo": "../static/img/classify_06.png",
+      "classifyTit": "家用药箱2"
+    },
+    {
+      "imgLogo": "../static/img/classify_07.png",
+      "classifyTit": "电子仪器2"
+    },
+    {
+      "imgLogo": "../static/img/classify_08.png",
+      "classifyTit": "海外热卖2"
+    },
+    {
+      "imgLogo": "../static/img/classify_01.png",
+      "classifyTit": "今日特惠3"
+    },
+    {
+      "imgLogo": "../static/img/classify_02.png",
+      "classifyTit": "智能设备3"
+    },
+    {
+      "imgLogo": "../static/img/classify_03.png",
+      "classifyTit": "保健品3"
+    },
+    {
+      "imgLogo": "../static/img/classify_04.png",
+      "classifyTit": "健康用品3"
+    },
+    {
+      "imgLogo": "../static/img/classify_05.png",
+      "classifyTit": "美肌美容3"
+    },
+    {
+      "imgLogo": "../static/img/classify_06.png",
+      "classifyTit": "家用药箱3"
+    }
+  ],
+  "order": [
+    {
+      "_id": "001",
+      "type": 1,
+      "typeName": "等待买家付款",
+      "orderNumber": "2272141569693651",
+      "goodsGather": [
+        {
+          "goodsImg": "../static/image/order_iocn_03.png",
+          "goodsTit": "乐心智能手环心率运动计步器手环001",
+          "goodsColor": "粉色",
+          "oldPrice": "169",
+          "price": "150",
+          "num": 2
+        }
+      ],
+      "sum": 0,
+      "sumPrice":0
+    },
+    {
+      "_id": "002",
+      "type": 2,
+      "typeName": "待收货",
+      "orderNumber": "2272141569693651",
+      "goodsGather": [
+        {
+          "id": "1",
+          "goodsImg": "../static/image/order_iocn_03.png",
+          "goodsTit": "乐心智能手环心率运动计步器手环002",
+          "goodsColor": "粉色",
+          "oldPrice": "169",
+          "price": "150",
+          "num": 4
+        },
+        {
+          "id": "2",
+          "goodsImg": "../static/image/order_iocn_03.png",
+          "goodsTit": "乐心智能手环心率运动计步器手环2",
+          "goodsColor": "银色",
+          "oldPrice": "169",
+          "price": "148",
+          "num": 1
+        }
+      ],
+      "sum": 0,
+      "sumPrice":0
+    },
+    {
+      "_id": "003",
+      "type": 2,
+      "typeName": "待收货",
+      "orderNumber": "2272141569693651",
+      "goodsGather": [
+        {
+          "goodsImg": "../static/image/order_iocn_03.png",
+          "goodsTit": "乐心智能手环心率运动计步器手环003",
+          "goodsColor": "粉色",
+          "oldPrice": "169",
+          "price": "150",
+          "num": 4
+        }
+      ],
+      "sum": 0,
+      "sumPrice":0
+    },
+    {
+      "_id": "004",
+      "type": 3,
+      "typeName": "交易成功",
+      "orderNumber": "2272141569693651",
+      "goodsGather": [
+        {
+          "goodsImg": "../static/image/order_iocn_03.png",
+          "goodsTit": "乐心智能手环心率运动计步器手环004",
+          "goodsColor": "粉色",
+          "oldPrice": "169",
+          "price": "150",
+          "num": 1
+        },
+        {
+          "goodsImg": "../static/image/order_iocn_03.png",
+          "goodsTit": "乐心智能手环心率运动计步器手环",
+          "goodsColor": "银色",
+          "oldPrice": "169",
+          "price": "148",
+          "num": 1
+        }
+      ],
+      "sum": 0,
+      "sumPrice":0
+    },
+    {
+      "_id": "005",
+      "type": 3,
+      "typeName": "交易成功",
+      "orderNumber": "2272141569693651",
+      "goodsGather": [
+        {
+          "goodsImg": "../static/image/order_iocn_03.png",
+          "goodsTit": "乐心智能手环心率运动计步器手环005",
+          "goodsColor": "红色",
+          "oldPrice": "169",
+          "price": "160",
+          "num": 1
+        }
+      ],
+      "sum": 0,
+      "sumPrice":0
+    }
+  ],
+  "shopCart": [
+    {
+      "check":false,
+      "goodsName":"Kings Ginger",
+      "goodsImg":"http://192.168.1.92/trace/upload/photo/20170727/0583/0583AF83B3CA49D0BAC81DF363550856.jpg",
+      "sort":"迷迭粉",
+      "content":"300ML",
+      "oldprice":5,
+      "price":3,
+      "num":1
+    },
+    {
+      "check":false,
+      "goodsName":"Kings Ginger",
+      "goodsImg":"http://192.168.1.92/trace/upload/photo/20170727/EEBF/EEBF0C285BBB4290A3FC9F6945CA5FFA.jpg",
+      "sort":"迷迭粉",
+      "content":"300ML",
+      "oldprice":5,
+      "price":3,
+      "num":1
+    }
+  ]
+}

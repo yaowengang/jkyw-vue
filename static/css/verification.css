@@ -1,0 +1,40 @@
+/*错误提示*/
+
+
+input{outline: none; padding: 5px; border: solid 2px rgba(0,0,0,0); transition: all 0.6s; box-sizing: border-box}
+textarea{border: solid 2px rgba(0,0,0,0); transition: all 0.6s; padding: 5px;  box-sizing: border-box}
+input:focus, textarea:focus{ }
+
+.form_li{height:auto; padding-bottom:20px; overflow-x: hidden; position: relative}
+.form_li label{ width: 80px; float: left; display: block; text-align: right; margin-right: 3%; padding: 5px 0; font-size: 16px;}
+.form_li input, .form_li textarea{ width: 200px; float: left; display: block;}
+.form_li i{ color: red; margin-right: 5px}
+
+.form_li .right{ position: absolute;}
+.form_li .bottom{ position: absolute;}
+
+.VerBtn{ display: block; padding: 10px 50px; margin: 0 auto; background: #03c; color: #fff; border-radius:5px}
+.VerBtn[disabled]{ opacity: 0.6}
+.error{ border: solid 2px red !important; background: #ffedeb !important;}
+.errorSp{ color: #ff2a00; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; display: block}
+.ok{border: solid 2px #81cddd;}
+.okSp{ position: absolute;}
+
+
+.OpenBox{ background: rgba(0,0,0,0.5); width: 300px; padding: 40px 20px; text-align: center; animation: myfirst 0.6s; border-radius:5px; font-size: 14px; display: inline-block; position: fixed;
+  top:0; color: #fff;}
+
+.close{ display:inline-block; position: absolute; right: 10px; top: 0px; font-size: 24px; font-weight: 100; cursor: pointer }
+@keyframes myfirst
+{
+  0% {transform:scale(0)}
+  75% {transform:scale(1.2)}
+  100% {transform:scale(1)}
+}
+.remove{animation: close 0.6s forwards;}
+@keyframes close
+{
+  0% {transform:scale(1)}
+  25% {transform:scale(1.2)}
+  100% {transform:scale(0); display: none;}
+}

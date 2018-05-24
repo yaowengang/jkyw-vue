@@ -1,0 +1,15 @@
+// ID 变量名（大写）=‘常量名（大写）’
+export const GET_QUESTIONBANKLIST_API = 'GET_QUESTIONBANKLIST_API';
+export const GET_QUESTIONKLOST_API = 'GET_QUESTIONKLOST_API';
+export const QUESTID = 'QUESTID';
+export const OPTIONID = 'OPTIONID';
+export const SUB_QUEST_API = 'SUB_QUEST_API';
+export const PERSONALINFO_API = 'PERSONALINFO_API';
+export const GET_QUICKINQUIRY_API = 'GET_QUICKINQUIRY_API';
+export const SHIFT_Q = 'SHIFT_Q';
+export const EXPERTINQUIRY_API = 'EXPERTINQUIRY_API';
+
+
+/***/
+export const GET_FINDREADBYCLAN_API = 'GET_FINDREADBYCLAN_API';
+export const CLANID = 'CLANID';

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0,maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="format-detection" content="telephone=no" />
+    <!--控制状态栏显示样式-->
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <!-- UC强制全屏 -->
+    <meta name="full-screen" content="yes">
+    <!-- QQ强制全屏 -->
+    <meta name="x5-fullscreen" content="true">
+    <title>jkyw</title>
+    <link rel="stylesheet" href="static/font-awesome-4.7.0/css/font-awesome.css">
+    <link rel="stylesheet" href="static/css/reset.css">
+    <link href="https://at.alicdn.com/t/font_369549_u0jxsf84of0kvs4i.css" rel="stylesheet" type="text/css">
+    <!--<link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet">-->
+    <!--<link rel="stylesheet" href="static/css/mui.min.css">-->
+    <script src="static/js/mui.min.js"></script>
+    <script type="text/javascript">
+        ;
+        (function(doc, win) {
+            var docEl = doc.documentElement,
+                resizeEvt = 'orientationchange' in window ? 'orientationchange' : 'resize',
+                recalc = function() {
+                    var clientWidth = docEl.clientWidth;
+                    console.log(document.documentElement.clientWidth);
+                    if (!clientWidth) return;
+                    if (clientWidth >= 640) {
+                        docEl.style.fontSize = '20px';
+                    } else {
+                        docEl.style.fontSize = 20 * (clientWidth / 640) + 'px';
+                    }
+                };
+
+            if (!doc.addEventListener) return;
+            win.addEventListener(resizeEvt, recalc, false);
+            doc.addEventListener('DOMContentLoaded', recalc, false);
+        })(document, window);
+    </script>
+</head>
+
+<body>
+    <div id="app"></div>
+    <!-- built files will be auto injected -->
+</body>
+
+</html>

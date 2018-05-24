@@ -1,0 +1,102 @@
+        * {
+            margin: 0;
+            padding: 0
+        }
+        
+        .mask {
+            height: 100%;
+            width: 100%;
+            position: fixed;
+            top: 0;
+            display: none
+        }
+        
+        .mask .warning_con {
+            box-sizing: content-box;
+            height: 11rem;
+            width: 20rem;
+            background: rgba(0, 0, 0, 0.5);
+            padding: 3rem 0;
+            border-radius: 0.5rem;
+            overflow: hidden;
+            position: absolute
+        }
+        
+        .mask .ok .iconImg {
+            width: 7.2rem;
+            height: 7.2rem;
+            position: relative;
+            left: 6.3rem
+        }
+        
+        .mask .ok .iconImg img {
+            position: absolute;
+            margin: 0 auto;
+            width: 7.2rem
+        }
+        
+        .mask .ok .iconImg .img1 {
+            animation: img1animate 0.8s 0.3s forwards;
+            opacity: 0
+        }
+        
+        .mask .ok .iconImg .img2 {
+            animation: img2animate 0.4s 0.7s forwards;
+            opacity: 0
+        }
+        
+        .mask .warning_con h1 {
+            font-size: 1.5rem;
+            display: block;
+            text-align: center;
+            font-weight: 100;
+            color: #fff;
+            margin-top: 2rem;
+            margin-bottom: 3rem
+        }
+        
+        .mask .warning_con p {
+            font-size: 1.2rem;
+            text-align: center;
+            margin-bottom: 2rem;
+            color: #fff;
+        }
+        
+        .mask .warning_con a {
+            color: #009de4;
+            font-size: 1rem;
+            text-align: center;
+            display: block;
+            margin: 0 auto;
+            text-decoration: underline
+        }
+        
+        .mask .describe {
+            opacity: 0
+        }
+        
+        @keyframes img1animate {
+            from {
+                transform: rotate(0deg) scale(2, 2);
+                opacity: 0
+            }
+            to {
+                transform: rotate(360deg) scale(1, 1);
+                opacity: 1
+            }
+        }
+        
+        @keyframes img2animate {
+            0% {
+                transform: scale(0, 0);
+                opacity: 0
+            }
+            75% {
+                transform: scale(1.2, 1.2);
+                opacity: 1
+            }
+            100% {
+                transform: scale(1, 1);
+                opacity: 1
+            }
+        }
